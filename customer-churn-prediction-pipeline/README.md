@@ -1,4 +1,3 @@
-```markdown
 # Customer Churn Prediction Pipeline
 
 A reusable ML pipeline predicting customer churn using scikit-learn's Pipeline API, 
@@ -19,4 +18,4 @@ scikit-learn (Pipeline, GridSearchCV), joblib
 ## Files
 - `task2phase2.ipynb` — full notebook
 - `churn_prediction_pipeline.joblib` — exported trained pipeline
-```
+
